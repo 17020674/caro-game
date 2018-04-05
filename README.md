@@ -1,2 +1,2 @@
-# maze-game
+# caro-game
 random
